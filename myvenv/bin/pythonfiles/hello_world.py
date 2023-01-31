@@ -10,8 +10,8 @@ print(my_message.count('o'))
 new_message = my_message.replace("Bobby's", "Tommy's")
 print(new_message)
 name = "James Scoffield"
-mesage = "Hello"
+message = "Hello"
 
-greeting = f'{mesage.upper()},{name} Welcome!'
+greeting = f'{message.upper()},{name} Welcome!'
 print(greeting)
 print(dir(name))
